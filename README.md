@@ -165,12 +165,13 @@ visualize_denoising(model, test_loader)
 ## OUTPUT
 
 ### Model Summary
+<img width="521" height="560" alt="Screenshot 2026-03-17 161558" src="https://github.com/user-attachments/assets/144bdc1a-1083-4d28-be6d-2e92e2dfc791" />
 
-<img width="508" height="382" alt="image" src="https://github.com/user-attachments/assets/a78aff0c-3913-4057-8518-79acaa08a158" />
 
 
 ### Original vs Noisy Vs Reconstructed Image
-<img width="812" height="383" alt="image" src="https://github.com/user-attachments/assets/d8765fd0-b363-4974-a880-980636b7ddfe" />
+<img width="1531" height="681" alt="Screenshot 2026-03-17 161542" src="https://github.com/user-attachments/assets/f07d3dc2-db74-4456-a71d-3f6283ad8c7e" />
+
 
 
 
