@@ -131,8 +131,8 @@ def visualize_denoising(model, loader, num_images=5):
     noisy_images = noisy_images.cpu().numpy()
     outputs = outputs.cpu().numpy()
 
-    print("Name:  Kowsalya M")
-    print("Register Number: 212222230069")
+    print("Name:  SWETHA C")
+    print("Register Number: 212224230283")
     plt.figure(figsize=(18, 6))
     for i in range(num_images):
         # Original
